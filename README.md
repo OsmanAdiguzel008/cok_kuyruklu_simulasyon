@@ -1,1 +1,1 @@
-# cok_kuyruklu_simulasyon
+# Bekleme süresi tahminini ve boşta kalan sürelerini hesaplamak için kuyruk similasyonu çalışmasıdır.
